@@ -1,0 +1,46 @@
+
+h1 {
+  font-size: 3rem;
+  font-family: 'Montserrat', cursive;
+  color: white;
+  line-height: 1.5;
+  margin-left: 10px;
+  font-weight: bold;
+}
+
+#title {
+  background-color: #27496d;
+  color: white;
+
+
+}
+
+.laptop {
+  width: 500px;
+  height: 400px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+.navbar-brand{
+  font-family: 'Ubuntu', cursive;
+  color: white;
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+
+.logo{
+  margin-right: 10px;
+  background-color: black;
+}
+
+.container-fluid {
+  padding: 3% 12%;
+}
+
+.btn-dark {
+    font-family: 'Ubuntu', cursive;
+    margin-top: 20px;
+    margin-left: 30%;
+    margin-bottom: 20px;
+}
