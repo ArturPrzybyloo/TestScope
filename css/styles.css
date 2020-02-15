@@ -18,6 +18,7 @@ h2 {
   font-family: 'Ubuntu';
   font-weight: bold;
   font-size: 2rem;
+  margin-bottom: 30px;
 }
 
 p {
@@ -32,14 +33,14 @@ p {
 }
 
 .col-sm {
-  padding: 75px;
+  padding: 6%;
   text-align: center;
 margin-top: 100px;
 }
 
 .laptop {
-  width: 400px;
-  height: 400px;
+  width: 80%;
+  height: 90%;
   margin-bottom: 20px;
   margin-top: 20px;
 }
@@ -92,12 +93,13 @@ margin-top: 100px;
 #testimonials {
   background-color: #0c7b93;
   text-align: center;
-  padding: 7% 15%
+
 }
 
-.d-block {
+.app {
 
   height: 30%;
+  width: 40%;
   text-align: center;
 
 }
@@ -105,4 +107,38 @@ margin-top: 100px;
 .description {
   color: white;
   font-family: 'Ubuntu'
+}
+
+.carousel-item {
+    padding: 7% 15%
+}
+
+.card-header {
+  background-color: #27496d;
+  color: #fff;
+    font-family: 'Ubuntu'
+}
+
+#pricing{
+  margin-top: 5%;
+}
+
+#btn1 {
+  background-color: #0c7b93;
+  color: #fff;
+}
+
+#btn2 {
+  background-color: #0c7b93;
+  color: #fff;
+}
+
+#btn1:hover {
+  background-color: #fff;
+  color: #27496d;
+}
+
+#btn2:hover {
+  background-color: #fff;
+  color: #27496d;
 }
