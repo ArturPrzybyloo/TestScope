@@ -43,6 +43,7 @@ margin-top: 100px;
   height: 90%;
   margin-bottom: 20px;
   margin-top: 20px;
+  margin-left: 30%;
 }
 
 .navbar-brand{
@@ -73,7 +74,7 @@ margin-top: 100px;
 .btn-register {
     font-family: 'Ubuntu', cursive;
     margin-top: 20px;
-    margin-left: 30%;
+    margin-left: 40%;
     margin-bottom: 20px;
 }
 
@@ -210,4 +211,8 @@ margin-top: 100px;
     color: #fff;
     margin-top: 10px;
     font-weight: bold;
+}
+
+.header-info{
+  margin-top: 10%;
 }
