@@ -43,7 +43,7 @@ margin-top: 100px;
   height: 90%;
   margin-bottom: 20px;
   margin-top: 20px;
-  margin-left: 30%;
+  margin-left: 10%;
 }
 
 .navbar-brand{
@@ -186,8 +186,8 @@ margin-top: 100px;
 }
 
 .social {
-  height: 2%;
-  width: 2%;
+  height: 30px;
+  width: 30px;
   margin-top: 5px;
   margin-left: 5px;
   margin-right: 5px;
@@ -195,8 +195,8 @@ margin-top: 100px;
 }
 
 .social:hover {
-  height: 3%;
-  width: 3%;
+  height: 35px;
+  width: 35px;
 }
 
 .footer2 {
